@@ -2,10 +2,10 @@
 GnuPG, OpenPGP Key generator for Git.
 Generates GitHub/GitLab standerd GPG Keys.
 
-### Screenshot:
-![Alt text](/../screenshots/ScreenShot_20190416010434.png?raw=true)
-![Alt text](/../screenshots/ScreenShot_20190416010434.png?raw=true)
-![Alt text](/../screenshots/ScreenShot_20190416010434.png?raw=true)
+### Screenshots:
+Windows (CMD)            |  Windows (Git Bash)             |  Linux Terminal
+:-------------------------:|:-------------------------:|:-------------------------:
+![ScreenShot](/../screenshots/ScreenShot_20190416135900.png)  |  ![ScreenShot](/../screenshots/ScreenShot_20190416010434.png)  |  ![ScreenShot](/../screenshots/ScreenShot_20190416011015.png)
 
 ### Features:
 * Run on Windows, Mac and Linux 👌👌
@@ -24,9 +24,7 @@ Generates GitHub/GitLab standerd GPG Keys.
 * For Mac/Linux run "gitgpg.sh" from Terminal.
 
 ### Useful Links:
-['gpg' (GnuPG)](https://gnupg.org/download/index.html)
-[Git SCM](https://git-scm.com/downloads)
-[Git for Windows](https://gitforwindows.org)
+[GPG (GnuPG)](https://gnupg.org/download/index.html) | [Git SCM](https://git-scm.com/downloads) | [Git for Windows](https://gitforwindows.org)
 
 ### Change Log:
 * v1.0: Initial Release.
