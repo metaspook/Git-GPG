@@ -11,11 +11,12 @@ Generates GitHub/GitLab standerd GPG Keys.
 * Run on Windows, Mac and Linux 👌👌
 * Noob friendly script 😉 hassle free 😋
 * Generates GitHub/GitLab standerd GPG Keys. 
-* You can add Generated GPG keys to your GitHub, GitLab account and use in other Git usage.
+* You can add Generated GPG keys to your GitHub, GitLab account.
+* Use in Git and all other sectors where needs GPG keys.
 * Exports Public and Private keys.
 
 ### Download:
-#### [ViPER4Windows-Patcher (Latest)](https://github.com/metaspook/ViPER4Windows-Patcher/releases/download/v1.1/v4w-patcher-v1.1-release.zip)
+#### [Git-GPG (Latest)](https://github.com/metaspook/ViPER4Windows-Patcher/releases/download/v1.0/gitgpg-v1.0-release.zip)
 
 ### Instructions:
 * Make sure ['gpg' (GnuPG)](https://gnupg.org/download/index.html) installed in your Windows/Mac/Linux.
