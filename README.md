@@ -15,8 +15,7 @@ Generates GitHub/GitLab standerd GPG Keys.
 * Use in Git and all other sectors where needs GPG keys.
 * Exports Public and Private keys.
 
-### Download:
-#### [Git-GPG (Latest)](https://github.com/metaspook/ViPER4Windows-Patcher/releases/download/v1.0/gitgpg-v1.0-release.zip)
+### Download: [Git-GPG (Latest)](https://github.com/metaspook/ViPER4Windows-Patcher/releases/download/v1.0/gitgpg-v1.0-release.zip)
 
 ### Instructions:
 * Make sure ['gpg' (GnuPG)](https://gnupg.org/download/index.html) installed in your Windows/Mac/Linux.
@@ -24,8 +23,7 @@ Generates GitHub/GitLab standerd GPG Keys.
 * For Windows run "gitgpg.bat".
 * For Mac/Linux run "gitgpg.sh" from Terminal.
 
-### Useful Links:
-[GPG (GnuPG)](https://gnupg.org/download/index.html) | [Git SCM](https://git-scm.com/downloads) | [Git for Windows](https://gitforwindows.org)
-
 ### Change Log:
 * v1.0: Initial Release.
+
+Useful Links: [GPG (GnuPG)](https://gnupg.org/download/index.html) | [Git SCM](https://git-scm.com/downloads) | [Git for Windows](https://gitforwindows.org)
