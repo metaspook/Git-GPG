@@ -3,7 +3,7 @@ GnuPG, OpenPGP Key generator for Git.
 Generates GitHub/GitLab standerd GPG Keys.
 
 ### Screenshots:
-Windows (CMD)            |  Windows (Git Bash)             |  Linux Terminal
+  Windows            | Git Bash            | Linux Terminal
 :-------------------------:|:-------------------------:|:-------------------------:
 ![ScreenShot](/../screenshots/ScreenShot_20190416135900.png)  |  ![ScreenShot](/../screenshots/ScreenShot_20190416010434.png)  |  ![ScreenShot](/../screenshots/ScreenShot_20190416011015.png)
 
